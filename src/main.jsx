@@ -13,8 +13,11 @@ import { Root } from "./components/Root";
 import NotFound from "./pages/NotFound";
 import { ErrorBoundary } from "./components/ErrorBoundary";
 
-export const api_url =
-  "https://my-json-server.typicode.com/Brenda-web/events-db.json";
+export const api_url = "https://reactadvancefinalproject.onrender.com"
+
+
+
+ // "https://my-json-server.typicode.com/Brenda-web/events-db.json";
 
 //"http://localhost:3000";
 
